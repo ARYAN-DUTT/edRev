@@ -1,6 +1,6 @@
 # EduRev
 
-EduRev is a college-project operations workspace for managing student readiness, curated client opportunities, bids, academic safeguards, and programme-level reporting. It demonstrates the flow from student training to opportunity allocation without storing freelancing-platform credentials or taking any share of student earnings.
+EduRev is a college-project operations workspace for managing student readiness, curated client opportunities, bids, academic safeguards, and programme-level reporting. It demonstrates the flow from student training to opportunity allocation without storing freelancing-platform credentials or taking any share of student earnings. 
 
 > **Status:** Week 5 demonstration build. The application uses realistic, mutable in-memory mock data—not a production database.
 
